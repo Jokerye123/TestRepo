@@ -63,6 +63,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\TestRepo.cs" />
+    <Compile Include="Assets\Script\wtf.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/fengm_sirbu/OneDrive/Documents/GitHub/TestRepo/GauntletRepo/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
