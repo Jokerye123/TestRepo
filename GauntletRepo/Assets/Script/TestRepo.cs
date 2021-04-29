@@ -8,6 +8,7 @@ public class TestRepo : MonoBehaviour
     void Start()
     {
         Debug.Log("Wtf");
+        Debug.Log("Fuck your");
     }
 
     // Update is called once per frame
